@@ -1,6 +1,6 @@
 # Health Tracker
 
-A simple CLI program written in Go to track your weight, calculate BMI and BMR, and give health recommendations.
+A simple  program written in Go to track your weight, calculate BMI and BMR, and give health recommendations.
 
 ## Features
 - Create a user profile (name, age, height, gender, weight)
