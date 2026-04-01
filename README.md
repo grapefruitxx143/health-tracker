@@ -25,7 +25,7 @@ git clone https://github.com/USERNAME/health-tracker.git
 go run main.go
 ```
 
-Future Improvements
-Add REST API for web or mobile integration, 
-Add persistent database support, 
-Add GUI or web interface, 
+## Future Improvements
+- Add REST API for web or mobile integration
+- Add persistent database support
+- Add GUI or web interface
