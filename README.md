@@ -1,0 +1,16 @@
+# Health Tracker
+
+A simple CLI program written in Go to track your weight, calculate BMI and BMR, and give health recommendations.
+
+## Features
+- Create a user profile (name, age, height, gender, weight)
+- Daily weight tracking
+- Calculate BMI (Body Mass Index) and BMR (Basal Metabolic Rate)
+- Provide suggestions for healthy weight
+- Track progress from the first day
+
+## Installation
+1. Clone the repository:
+```bash
+git clone https://github.com/USERNAME/health-tracker.git
+
