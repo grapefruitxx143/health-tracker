@@ -12,7 +12,7 @@ A simple CLI program written in Go to track your weight, calculate BMI and BMR, 
 ## Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/USERNAME/health-tracker.git
+git clone https://github.com/https://github.com/grapefruitxx143/health-tracker.git/health-tracker.git
 ```
 
 2. Navigate to the project folder.
